@@ -1,2 +1,2 @@
-# GCIH_Credentials_Mgm
+# Manager_dashboard
 This is the Exec/Manager Dashboard for GCIH Credentialing Status'
